@@ -1,4 +1,13 @@
-### Hi there 👋
+# Albert Sabirzianov
+### I'm web developer 
+
+<div id="socials" align="center">
+	<a href="https://t.me/AlbertSabirzianov">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+</div>
+
+My stack is: Django + React
 
 <!--
 **AlbertSabirzianov/AlbertSabirzianov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
