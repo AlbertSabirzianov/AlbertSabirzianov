@@ -1,5 +1,5 @@
 # Albert Sabirzianov
-### I'm web developer 
+### I'm python developer 
 
 <div id="socials" align="center">
 	<a href="https://t.me/AlbertSabirzianov">
@@ -7,7 +7,6 @@
 	</a>
 </div>
 
-My stack is: Django + React
 
 <!--
 **AlbertSabirzianov/AlbertSabirzianov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
