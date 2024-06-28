@@ -1,5 +1,5 @@
 # Albert Sabirzianov
-### I'm python developer 
+### I'm a Python developer 
 
 <div id="socials" align="center">
 	<a href="https://t.me/AlbertSabirzianov">
