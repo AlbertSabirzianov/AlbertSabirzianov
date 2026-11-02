@@ -1,4 +1,4 @@
-# Hey there, I'm Albert Sabirzyanov! 👋
+# Hey there, I'm Albert Sabirzyanov-Valizer! 👋
 
 ### 🚀 Senior / Middle+ Python Developer & AI Infrastructure Engineer
 
@@ -23,23 +23,22 @@ I am a backend specialist and platform engineer with **5 years of commercial exp
 
 <p align="left">
   <!-- Languages & Core -->
-  <a href="https://python.org"><img src="https://shields.io" alt="Python"/></a>
-  <a href="https://fastapi.tiangolo.com"><img src="https://shields.io" alt="FastAPI"/></a>
-  <a href="https://djangoproject.com"><img src="https://shields.io" alt="Django"/></a>
+  <a href="https://python.org" target="_blank"><img src="https://shields.io" alt="Python"/></a>
+  <a href="https://tiangolo.com" target="_blank"><img src="https://shields.io" alt="FastAPI"/></a>
+  <a href="https://djangoproject.com" target="_blank"><img src="https://shields.io" alt="Django"/></a>
   <br/>
   <!-- Data & Streaming -->
-  <a href="https://postgresql.org"><img src="https://shields.io" alt="PostgreSQL"/></a>
-  <a href="https://redis.io"><img src="https://shields.io" alt="Redis"/></a>
-  <a href="https://kafka.apache.org"><img src="https://shields.io" alt="Kafka"/></a>
-  <a href="https://qdrant.tech"><img src="https://shields.io" alt="Qdrant"/></a>
+  <a href="https://postgresql.org" target="_blank"><img src="https://shields.io" alt="PostgreSQL"/></a>
+  <a href="https://redis.io" target="_blank"><img src="https://shields.io" alt="Redis"/></a>
+  <a href="https://apache.org" target="_blank"><img src="https://shields.io" alt="Kafka"/></a>
+  <a href="https://qdrant.tech" target="_blank"><img src="https://shields.io" alt="Qdrant"/></a>
   <br/>
   <!-- AI & Infrastructure -->
-  <a href="https://huggingface.co"><img src="https://shields.io" alt="Hugging Face"/></a>
-  <a href="https://docker.com"><img src="https://shields.io" alt="Docker"/></a>
-  <a href="https://kubernetes.io"><img src="https://shields.io" alt="Kubernetes"/></a>
-  <a href="https://gitlab.com"><img src="https://shields.io" alt="GitLab"/></a>
-  <a href="https://mlflow.org"><img src="https://shields.io" alt="MLflow"/></a>
+  <a href="https://huggingface.co" target="_blank"><img src="https://shields.io" alt="Hugging Face"/></a>
+  <a href="https://docker.com" target="_blank"><img src="https://shields.io" alt="Docker"/></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://shields.io" alt="Kubernetes"/></a>
+  <a href="https://gitlab.com" target="_blank"><img src="https://shields.io" alt="GitLab"/></a>
+  <a href="https://mlflow.org" target="_blank"><img src="https://shields.io" alt="MLflow"/></a>
 </p>
 
 * **Backend & Async:** Python, Asyncio, FastAPI, Django
-
