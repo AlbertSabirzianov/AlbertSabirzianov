@@ -12,3 +12,8 @@ I am a backend specialist and platform engineer with **5 years of commercial exp
 ![skills](https://skillicons.dev/icons?i=docker,flask,fastapi,git,github,linux,nginx,py,nodejs,sqlite,selenium,vim,flask,kafka,pycharm,redis)
 
 * **Backend & Async:** Python, Asyncio, FastAPI, Django
+
+### Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
