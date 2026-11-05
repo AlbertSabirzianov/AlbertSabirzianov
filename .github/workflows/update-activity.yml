@@ -1,0 +1,24 @@
+name: Update GitHub README Activity
+
+on:
+  schedule:
+    # Запуск каждые 6 часов
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Позволяет запускать вручную кнопкой
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    # Явно даем права скрипту на запись в этот репозиторий
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README with Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 10
