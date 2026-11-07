@@ -16,14 +16,14 @@ I am a backend specialist and platform engineer with **5 years of commercial exp
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33634](https://github.com/lingdojo/kana-dojo/pull/33634) in [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo)
-2. ℹ️ Labeled issue [#7](https://github.com/AlbertSabirzianov/docker_cmd/issues/7) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
-3. ℹ️ Labeled issue [#7](https://github.com/AlbertSabirzianov/docker_cmd/issues/7) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
-4. ❗ Opened issue [#7](https://github.com/AlbertSabirzianov/docker_cmd/issues/7) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
-5. ℹ️ Labeled issue [#6](https://github.com/AlbertSabirzianov/docker_cmd/issues/6) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
-6. ❗ Opened issue [#6](https://github.com/AlbertSabirzianov/docker_cmd/issues/6) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
-7. 🎉 Merged PR [#28](https://github.com/opensource-radar/opensource-radar/pull/28) in [opensource-radar/opensource-radar](https://github.com/opensource-radar/opensource-radar)
-8. 🗣 Commented on [#21](https://github.com/opensource-radar/opensource-radar/issues/21#issuecomment-6665739434) in [opensource-radar/opensource-radar](https://github.com/opensource-radar/opensource-radar)
-9. ℹ️ Labeled issue [#5](https://github.com/AlbertSabirzianov/docker_cmd/issues/5) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
-10. ❗ Opened issue [#5](https://github.com/AlbertSabirzianov/docker_cmd/issues/5) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
+1. ℹ️ Labeled issue [#5](https://github.com/AlbertSabirzianov/aiokafka-test/issues/5) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
+2. ❗ Opened issue [#5](https://github.com/AlbertSabirzianov/aiokafka-test/issues/5) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
+3. ℹ️ Labeled issue [#4](https://github.com/AlbertSabirzianov/aiokafka-test/issues/4) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
+4. ℹ️ Labeled issue [#4](https://github.com/AlbertSabirzianov/aiokafka-test/issues/4) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
+5. ❗ Opened issue [#4](https://github.com/AlbertSabirzianov/aiokafka-test/issues/4) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
+6. ℹ️ Labeled issue [#3](https://github.com/AlbertSabirzianov/aiokafka-test/issues/3) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
+7. ❗ Opened issue [#3](https://github.com/AlbertSabirzianov/aiokafka-test/issues/3) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
+8. ℹ️ Labeled issue [#2](https://github.com/AlbertSabirzianov/aiokafka-test/issues/2) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
+9. ❗ Opened issue [#2](https://github.com/AlbertSabirzianov/aiokafka-test/issues/2) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
+10. ℹ️ Labeled issue [#1](https://github.com/AlbertSabirzianov/aiokafka-test/issues/1) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
 <!--END_SECTION:activity-->
