@@ -16,14 +16,14 @@ I am a backend specialist and platform engineer with **5 years of commercial exp
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/AlbertSabirzianov/aiokafka-test/issues/1) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
-2. ℹ️ Labeled issue [#5](https://github.com/AlbertSabirzianov/aiokafka-test/issues/5) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
-3. ❗ Opened issue [#5](https://github.com/AlbertSabirzianov/aiokafka-test/issues/5) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
-4. ℹ️ Labeled issue [#4](https://github.com/AlbertSabirzianov/aiokafka-test/issues/4) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
-5. ℹ️ Labeled issue [#4](https://github.com/AlbertSabirzianov/aiokafka-test/issues/4) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
-6. ❗ Opened issue [#4](https://github.com/AlbertSabirzianov/aiokafka-test/issues/4) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
-7. ℹ️ Labeled issue [#3](https://github.com/AlbertSabirzianov/aiokafka-test/issues/3) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
-8. ❗ Opened issue [#3](https://github.com/AlbertSabirzianov/aiokafka-test/issues/3) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
-9. ℹ️ Labeled issue [#2](https://github.com/AlbertSabirzianov/aiokafka-test/issues/2) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
-10. ❗ Opened issue [#2](https://github.com/AlbertSabirzianov/aiokafka-test/issues/2) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
+1. 🎉 Merged PR [#104](https://github.com/testwithsuraj/kunji/pull/104) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
+2. 🎉 Merged PR [#105](https://github.com/testwithsuraj/kunji/pull/105) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
+3. 💪 Opened PR [#105](https://github.com/testwithsuraj/kunji/pull/105) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
+4. 🎉 Merged PR [#101](https://github.com/testwithsuraj/kunji/pull/101) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
+5. 💪 Opened PR [#104](https://github.com/testwithsuraj/kunji/pull/104) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
+6. 💪 Opened PR [#101](https://github.com/testwithsuraj/kunji/pull/101) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
+7. 🔒 Closed issue [#1](https://github.com/AlbertSabirzianov/aiokafka-test/issues/1) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
+8. ℹ️ Labeled issue [#5](https://github.com/AlbertSabirzianov/aiokafka-test/issues/5) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
+9. ❗ Opened issue [#5](https://github.com/AlbertSabirzianov/aiokafka-test/issues/5) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
+10. ℹ️ Labeled issue [#4](https://github.com/AlbertSabirzianov/aiokafka-test/issues/4) in [AlbertSabirzianov/aiokafka-test](https://github.com/AlbertSabirzianov/aiokafka-test)
 <!--END_SECTION:activity-->
