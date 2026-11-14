@@ -16,14 +16,14 @@ I am a backend specialist and platform engineer with **5 years of commercial exp
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#118](https://github.com/testwithsuraj/kunji/pull/118) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
-2. 💪 Opened PR [#13](https://github.com/ATHARV-IIT-BOMBAY/meow-decoder/pull/13) in [ATHARV-IIT-BOMBAY/meow-decoder](https://github.com/ATHARV-IIT-BOMBAY/meow-decoder)
-3. 🔒 Closed issue [#5](https://github.com/AlbertSabirzianov/Asterix/issues/5) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
-4. 💪 Opened PR [#10](https://github.com/Swizzle-AI/swizzle-runtime/pull/10) in [Swizzle-AI/swizzle-runtime](https://github.com/Swizzle-AI/swizzle-runtime)
-5. ℹ️ Labeled issue [#12](https://github.com/AlbertSabirzianov/docker_cmd/issues/12) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
-6. ℹ️ Labeled issue [#12](https://github.com/AlbertSabirzianov/docker_cmd/issues/12) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
-7. ❗ Opened issue [#12](https://github.com/AlbertSabirzianov/docker_cmd/issues/12) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
-8. ℹ️ Labeled issue [#6](https://github.com/AlbertSabirzianov/Asterix/issues/6) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
-9. ❗ Opened issue [#6](https://github.com/AlbertSabirzianov/Asterix/issues/6) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
-10. ℹ️ Labeled issue [#5](https://github.com/AlbertSabirzianov/Asterix/issues/5) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
+1. 🔒 Closed issue [#15](https://github.com/AlbertSabirzianov/Asterix/issues/15) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
+2. 🔒 Closed issue [#10](https://github.com/AlbertSabirzianov/Asterix/issues/10) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
+3. 💪 Opened PR [#454](https://github.com/cel-rust/cel-rust/pull/454) in [cel-rust/cel-rust](https://github.com/cel-rust/cel-rust)
+4. 🎉 Merged PR [#118](https://github.com/testwithsuraj/kunji/pull/118) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
+5. ℹ️ Labeled issue [#16](https://github.com/AlbertSabirzianov/Asterix/issues/16) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
+6. ℹ️ Labeled issue [#16](https://github.com/AlbertSabirzianov/Asterix/issues/16) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
+7. ❗ Opened issue [#16](https://github.com/AlbertSabirzianov/Asterix/issues/16) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
+8. ℹ️ Labeled issue [#14](https://github.com/AlbertSabirzianov/docker_cmd/issues/14) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
+9. ℹ️ Labeled issue [#14](https://github.com/AlbertSabirzianov/docker_cmd/issues/14) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
+10. ❗ Opened issue [#14](https://github.com/AlbertSabirzianov/docker_cmd/issues/14) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
 <!--END_SECTION:activity-->
