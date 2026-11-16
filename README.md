@@ -16,14 +16,14 @@ I am a backend specialist and platform engineer with **5 years of commercial exp
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#15](https://github.com/AlbertSabirzianov/Asterix/issues/15) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
-2. 🔒 Closed issue [#10](https://github.com/AlbertSabirzianov/Asterix/issues/10) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
-3. 💪 Opened PR [#454](https://github.com/cel-rust/cel-rust/pull/454) in [cel-rust/cel-rust](https://github.com/cel-rust/cel-rust)
-4. 🎉 Merged PR [#118](https://github.com/testwithsuraj/kunji/pull/118) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
-5. ℹ️ Labeled issue [#16](https://github.com/AlbertSabirzianov/Asterix/issues/16) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
+1. 🔒 Closed issue [#11](https://github.com/AlbertSabirzianov/Asterix/issues/11) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
+2. 🔒 Closed issue [#15](https://github.com/AlbertSabirzianov/Asterix/issues/15) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
+3. 🔒 Closed issue [#10](https://github.com/AlbertSabirzianov/Asterix/issues/10) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
+4. 💪 Opened PR [#454](https://github.com/cel-rust/cel-rust/pull/454) in [cel-rust/cel-rust](https://github.com/cel-rust/cel-rust)
+5. 🎉 Merged PR [#118](https://github.com/testwithsuraj/kunji/pull/118) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
 6. ℹ️ Labeled issue [#16](https://github.com/AlbertSabirzianov/Asterix/issues/16) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
-7. ❗ Opened issue [#16](https://github.com/AlbertSabirzianov/Asterix/issues/16) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
-8. ℹ️ Labeled issue [#14](https://github.com/AlbertSabirzianov/docker_cmd/issues/14) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
+7. ℹ️ Labeled issue [#16](https://github.com/AlbertSabirzianov/Asterix/issues/16) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
+8. ❗ Opened issue [#16](https://github.com/AlbertSabirzianov/Asterix/issues/16) in [AlbertSabirzianov/Asterix](https://github.com/AlbertSabirzianov/Asterix)
 9. ℹ️ Labeled issue [#14](https://github.com/AlbertSabirzianov/docker_cmd/issues/14) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
-10. ❗ Opened issue [#14](https://github.com/AlbertSabirzianov/docker_cmd/issues/14) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
+10. ℹ️ Labeled issue [#14](https://github.com/AlbertSabirzianov/docker_cmd/issues/14) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
 <!--END_SECTION:activity-->
