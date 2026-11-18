@@ -16,14 +16,14 @@ I am a backend specialist and platform engineer with **5 years of commercial exp
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#127](https://github.com/testwithsuraj/kunji/pull/127) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
-2. ℹ️ Labeled issue [#126](https://github.com/testwithsuraj/kunji/issues/126) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
-3. ❗ Opened issue [#126](https://github.com/testwithsuraj/kunji/issues/126) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
-4. 💪 Opened PR [#125](https://github.com/testwithsuraj/kunji/pull/125) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
-5. ❗ Opened issue [#25](https://github.com/AlbertSabirzianov/docker_cmd/issues/25) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
-6. ℹ️ Labeled issue [#24](https://github.com/AlbertSabirzianov/docker_cmd/issues/24) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
-7. ℹ️ Labeled issue [#24](https://github.com/AlbertSabirzianov/docker_cmd/issues/24) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
-8. ❗ Opened issue [#24](https://github.com/AlbertSabirzianov/docker_cmd/issues/24) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
-9. ℹ️ Labeled issue [#23](https://github.com/AlbertSabirzianov/docker_cmd/issues/23) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
-10. ℹ️ Labeled issue [#23](https://github.com/AlbertSabirzianov/docker_cmd/issues/23) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
+1. 🎉 Merged PR [#127](https://github.com/testwithsuraj/kunji/pull/127) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
+2. 🎉 Merged PR [#125](https://github.com/testwithsuraj/kunji/pull/125) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
+3. 💪 Opened PR [#127](https://github.com/testwithsuraj/kunji/pull/127) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
+4. ℹ️ Labeled issue [#126](https://github.com/testwithsuraj/kunji/issues/126) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
+5. ❗ Opened issue [#126](https://github.com/testwithsuraj/kunji/issues/126) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
+6. 💪 Opened PR [#125](https://github.com/testwithsuraj/kunji/pull/125) in [testwithsuraj/kunji](https://github.com/testwithsuraj/kunji)
+7. ❗ Opened issue [#25](https://github.com/AlbertSabirzianov/docker_cmd/issues/25) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
+8. ℹ️ Labeled issue [#24](https://github.com/AlbertSabirzianov/docker_cmd/issues/24) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
+9. ℹ️ Labeled issue [#24](https://github.com/AlbertSabirzianov/docker_cmd/issues/24) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
+10. ❗ Opened issue [#24](https://github.com/AlbertSabirzianov/docker_cmd/issues/24) in [AlbertSabirzianov/docker_cmd](https://github.com/AlbertSabirzianov/docker_cmd)
 <!--END_SECTION:activity-->
